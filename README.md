@@ -1,0 +1,1 @@
+![Test](https://github.com/rogvictim/iamnotavictim/workflows/Test/badge.svg)
