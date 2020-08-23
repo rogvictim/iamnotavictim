@@ -1,1 +1,1 @@
-![Test](https://github.com/rogvictim/iamnotavictim/workflows/Test/badge.svg)
+[![GitHub Actions CI status](https://img.shields.io/github/workflow/status/rogvictim/iamnotavictim/Push)](https://github.com/rogvictim/iamnotavictim/actions)
